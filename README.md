@@ -6,8 +6,6 @@ This assignment uses node and express.js to create a web browser-based note taki
 
 ## Link 
 
-http://localhost:3001 
-
 https://express-js-notetaker-qsc0.onrender.com 
 
 ## Screenshots 
